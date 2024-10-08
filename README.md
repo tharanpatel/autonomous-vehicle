@@ -7,7 +7,6 @@ TinkerCAD simulation: https://www.tinkercad.com/things/kzynyp6mSHQ?sharecode=7jk
 
 Youtube Project Demonstration: 
 
-<video src="https://youtu.be/y035HHH-xtI" width="320" height="240" controls></video>
+<iframe width="560" height="315" src="https://youtu.be/y035HHH-xtI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-https://youtu.be/y035HHH-xtI
