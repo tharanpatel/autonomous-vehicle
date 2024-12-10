@@ -5,8 +5,4 @@ The vehicle which uses a combination of various sensors and fuzzy controllers to
 
 TinkerCAD simulation: https://www.tinkercad.com/things/kzynyp6mSHQ?sharecode=7jk3B3z2ZUvMRXQIHkEfFwsjXmtYhfSieZyZezv4cCQ
 
-Youtube Project Demonstration: 
-
-<iframe width="560" height="315" src="https://youtu.be/y035HHH-xtI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/y035HHH-xtI/0.jpg)](https://www.youtube.com/watch?v=y035HHH-xtI)
+https://youtu.be/y035HHH-xtI
