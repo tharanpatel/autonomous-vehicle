@@ -5,4 +5,12 @@ The vehicle which uses a combination of various sensors and fuzzy controllers to
 
 TinkerCAD simulation: https://www.tinkercad.com/things/kzynyp6mSHQ?sharecode=7jk3B3z2ZUvMRXQIHkEfFwsjXmtYhfSieZyZezv4cCQ
 
-https://youtu.be/y035HHH-xtI
+<table>
+    <tr>
+    <td valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C logo" width="150"/></td>
+    <td><img src="https://mlegimnpy7qi.i.optimole.com/w:auto/h:auto/q:mauto/f:best/ig:avif/https://www.softwarekey.com/wp-content/uploads/2015/05/labview-logo.png" alt="LabVIEW" width="150"/></td>
+    </tr>
+</table>
+
+https://github.com/user-attachments/assets/0831363c-6ac3-4e88-ad89-5e5a89f452a3
+
